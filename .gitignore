@@ -2,6 +2,9 @@ images/*
 
 sandboxACK/*
 
+
+DATEME/sandboxDATE/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
