@@ -2,15 +2,16 @@
 data/images_sample/*
 font
 
-# brouillon 
+# personal brouillon 
 sandboxACK/*
 
 ## DATEME
 projects/DATEME/sandboxDATE/
-DATEME/output/*
-DATEME/input/*
+projects/DATEME/output/*
+projects/DATEME/input/*
+projects/DATEME/test*.ipynb
 
-
+## 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

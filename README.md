@@ -10,9 +10,9 @@ A growing collection of aesthetic, generative design projects.
 - NOTSAM        semantic segmentation tool 
 
 ## Structure
-- projects/     individual projects with demo
+- projects/     individual projects with demo, README
 - utils/        shared utilities
-- data/         shared resources (fonts,sample)
+- data/         shared resources (fonts,samples)
 
 
 ## Notes
