@@ -1,9 +1,16 @@
+## input data
+
 images/*
 
+font
+
+# brouillon 
 sandboxACK/*
 
 
 DATEME/sandboxDATE/*
+DATEME/output*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
