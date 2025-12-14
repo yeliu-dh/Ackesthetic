@@ -1,15 +1,15 @@
-## input data
-
-images/*
-
+##  data
+data/images_sample/*
 font
 
 # brouillon 
 sandboxACK/*
 
+## DATEME
+projects/DATEME/sandboxDATE/
+DATEME/output/*
+DATEME/input/*
 
-DATEME/sandboxDATE/*
-DATEME/output*
 
 
 # Byte-compiled / optimized / DLL files
