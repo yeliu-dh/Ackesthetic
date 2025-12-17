@@ -5,8 +5,8 @@ A growing collection of aesthetic, generative design projects.
 
 ## Projects
 - AOUNDME       immersive, spherical, digital exhibition
-- FOLDME        randomized productivity tool for the zine layout
-- DATEME        randomized productivity tool to generate calendars
+- FOLDME        productivity tool for randomized zine layout
+- DATEME        productivity tool to generate randomized calendars
 - NOTSAM        semantic segmentation tool 
 
 ## Structure

@@ -1,5 +1,5 @@
 ##  data
-data/images_sample/*
+data/images_*/*
 font
 
 # personal brouillon 
@@ -11,7 +11,10 @@ projects/DATEME/output/*
 projects/DATEME/input/*
 projects/DATEME/test*.ipynb
 
-## 
+## NOTSAM
+projets/NOTSAM/models/*
+projects/NOTSAM/images_*/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
